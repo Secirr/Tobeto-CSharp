@@ -1,27 +1,26 @@
-﻿<Properties StartupConfiguration="{1EDED8DE-1B45-4528-9C00-2127347E7436}|Default">
+﻿<Properties StartupConfiguration="{EE6CE000-167D-4386-85B0-EC35F4B65143}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.DegerVeReferansTipler PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.GenericsIntro FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.Matematik PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="../DegerVeReferansTipler/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../CampDay4/GenericsIntro/Program.cs">
     <Files>
-      <File FileName="SepetManager.cs" Line="8" Column="25" />
-      <File FileName="Program.cs" Line="34" Column="1" />
-      <File FileName="../DegerVeReferansTipler/Program.cs" Line="18" Column="30" />
+      <File FileName="../GenericsIntro/Program.cs" Line="11" Column="1" />
+      <File FileName="../GenericsIntro/MyList.cs" Line="22" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="CampDay3" expanded="True">
-            <Node name="CampDay3" selected="True" />
-          </Node>
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.OOP1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <DisabledProjects>
+    <String>../DegerVeReferansTipler/DegerVeReferansTipler.csproj</String>
+    <String>../Matematik/Matematik.csproj</String>
+    <String>../GenericsIntro/GenericsIntro.csproj</String>
+    <String>../OOP1/OOP1.csproj</String>
+  </DisabledProjects>
   <MonoDevelop.Ide.ItemProperties.CampDay3 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
