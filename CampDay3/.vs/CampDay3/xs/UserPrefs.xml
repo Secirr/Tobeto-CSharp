@@ -1,12 +1,8 @@
-﻿<Properties StartupConfiguration="{389A5CFF-2949-4407-85D5-E4631767CD9E}|Default">
+﻿<Properties StartupConfiguration="{1EDED8DE-1B45-4528-9C00-2127347E7436}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.DegerVeReferansTipler PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.CampDay3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.GenericsIntro FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Matematik PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workbench ActiveDocument="../DegerVeReferansTipler/Program.cs">
     <Files>
       <File FileName="SepetManager.cs" Line="8" Column="25" />
@@ -23,5 +19,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.OOP1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.CampDay3 PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
