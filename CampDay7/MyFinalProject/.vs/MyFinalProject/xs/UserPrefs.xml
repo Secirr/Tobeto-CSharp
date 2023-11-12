@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{F9ABE567-9E48-495A-865A-EC1162A2E168}|Default">
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.DataAccess FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Business FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Entities FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

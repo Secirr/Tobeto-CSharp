@@ -1,0 +1,15 @@
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/bin/Debug/net7.0/CampDay3
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/bin/Debug/net7.0/CampDay3.deps.json
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/bin/Debug/net7.0/CampDay3.runtimeconfig.json
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/bin/Debug/net7.0/CampDay3.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/bin/Debug/net7.0/CampDay3.pdb
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/obj/Debug/net7.0/CampDay3.csproj.AssemblyReference.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/obj/Debug/net7.0/CampDay3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/obj/Debug/net7.0/CampDay3.AssemblyInfoInputs.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/obj/Debug/net7.0/CampDay3.AssemblyInfo.cs
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/obj/Debug/net7.0/CampDay3.csproj.CoreCompileInputs.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/obj/Debug/net7.0/CampDay3.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/obj/Debug/net7.0/refint/CampDay3.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/obj/Debug/net7.0/CampDay3.pdb
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/obj/Debug/net7.0/CampDay3.genruntimeconfig.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay3/obj/Debug/net7.0/ref/CampDay3.dll

@@ -1,0 +1,15 @@
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/bin/Debug/net7.0/DataAccess.dll
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/bin/Debug/net7.0/DataAccess.pdb
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/bin/Debug/net7.0/Entities.dll
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/bin/Debug/net7.0/Entities.pdb
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.AssemblyReference.cache
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfoInputs.cache
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.AssemblyInfo.cs
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CoreCompileInputs.cache
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.dll
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.pdb
+/Users/kadirozdemir/Desktop/MyFinalProject/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll

@@ -1,0 +1,15 @@
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/obj/Debug/net7.0/DortIslem.csproj.AssemblyReference.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/obj/Debug/net7.0/DortIslem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/obj/Debug/net7.0/DortIslem.AssemblyInfoInputs.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/obj/Debug/net7.0/DortIslem.AssemblyInfo.cs
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/obj/Debug/net7.0/DortIslem.csproj.CoreCompileInputs.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/bin/Debug/net7.0/DortIslem
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/bin/Debug/net7.0/DortIslem.deps.json
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/bin/Debug/net7.0/DortIslem.runtimeconfig.json
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/bin/Debug/net7.0/DortIslem.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/bin/Debug/net7.0/DortIslem.pdb
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/obj/Debug/net7.0/DortIslem.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/obj/Debug/net7.0/refint/DortIslem.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/obj/Debug/net7.0/DortIslem.pdb
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/obj/Debug/net7.0/DortIslem.genruntimeconfig.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/DortIslem/obj/Debug/net7.0/ref/DortIslem.dll
