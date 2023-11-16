@@ -35,32 +35,42 @@ namespace Business.Concrete
             return new SuccesResult(Messages.ProductAdded);
         }
 
-        public List<Product> GetAll()
+        public IDataResult<List<Product>> GetAll()
         {
+
+            if (DateTime.Now.Hour==22)
+            {
+                return new ErrorDataResult<List<Product>>(Messages.MaintenanceTime);
+            }
+
             //İş Kodları
             //Örnek: Yetkisi var mı?
             //Kurallar ! ! !
-            return _productDal.GetAll();
+
+            return new SuccessDataResult<List<Product>>(_productDal.GetAll(),Messages.ProductsListed);
         }
 
-        public List<Product> GetAllByCategoryId(int id)
+        public IDataResult<List<Product>> GetAllByCategoryId(int id)
         {
-            return _productDal.GetAll(p => p.CategoryId == id); //landa yapısı
+            return new SuccessDataResult<List<Product>>(_productDal.GetAll(p => p.CategoryId == id)); //landa yapısı
+            
         }
 
-        public Product GetById(int ProductId)
+        public IDataResult<Product> GetById(int ProductId)
         {
-            return _productDal.Get(p=>p.ProductId == ProductId);
+            return new SuccessDataResult<Product>(_productDal.Get(p=>p.ProductId == ProductId));
         }
 
-        public List<Product> GetByUnitPrice(decimal min, decimal max)
+        public IDataResult<List<Product>> GetByUnitPrice(decimal min, decimal max)
         {
-            return _productDal.GetAll(p=>p.UnitPrice>=min && p.UnitPrice<= max);
+            return new SuccessDataResult<List<Product>>(_productDal.GetAll(p=>p.UnitPrice>=min && p.UnitPrice<= max));
+            
         }
 
-        public List<ProductDetailDto> GetProductDetails()
+        public IDataResult<List<ProductDetailDto>> GetProductDetails()
         {
-            return _productDal.GetProductDetails();
+            return new SuccessDataResult<List<ProductDetailDto>>(_productDal.GetProductDetails());
+            
         }
     }
 }
