@@ -28,3 +28,5 @@
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay8/MyFinalProject/DataAccess/bin/Debug/net7.0/Entities.pdb
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay8/MyFinalProject/DataAccess/obj/Debug/net7.0/DataAccess.csproj.CopyComplete
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay8/MyFinalProject/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay8/MyFinalProject/DataAccess/bin/Debug/net7.0/Core.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CampDay8/MyFinalProject/DataAccess/bin/Debug/net7.0/Core.pdb

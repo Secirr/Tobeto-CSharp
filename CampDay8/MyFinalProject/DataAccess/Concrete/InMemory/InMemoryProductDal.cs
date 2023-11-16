@@ -29,10 +29,6 @@ namespace DataAccess.Concrete.InMemory
             _products.Add(product);
         }
 
-        public void Add(deneme entity)
-        {
-            throw new NotImplementedException();
-        }
 
         public void Delete(Product product)
         {
@@ -57,20 +53,13 @@ namespace DataAccess.Concrete.InMemory
             _products.Remove(productToDelete);
         }
 
-        public void Delete(deneme entity)
-        {
-            throw new NotImplementedException();
-        }
 
         public Product Get(Expression<Func<Product, bool>> filter)
         {
             throw new NotImplementedException();
         }
 
-        public deneme Get(Expression<Func<deneme, bool>> filter)
-        {
-            throw new NotImplementedException();
-        }
+       
 
         public List<Product> GetAll()
         {
@@ -82,10 +71,6 @@ namespace DataAccess.Concrete.InMemory
             throw new NotImplementedException();
         }
 
-        public List<deneme> GetAll(Expression<Func<deneme, bool>> filter = null)
-        {
-            throw new NotImplementedException();
-        }
 
         public List<Product> GetAllByCategory(int categoryId)
         {
@@ -102,9 +87,6 @@ namespace DataAccess.Concrete.InMemory
             productToUpdate.UnitsInStock = product.UnitsInStock;
         }
 
-        public void Update(deneme entity)
-        {
-            throw new NotImplementedException();
-        }
+       
     }
 }
