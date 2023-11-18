@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{40D1ABC1-6291-4ADE-A5EB-40AAB434B447}|https">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/Controllers/CoursesController.cs">
+    <Files>
+      <File FileName="WebAPI/Controllers/CoursesController.cs" Line="14" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TobetoCourseAcademy" expanded="True">
+            <Node name="WebAPI">
+              <Node name="Controllers">
+                <Node name="CoursesController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

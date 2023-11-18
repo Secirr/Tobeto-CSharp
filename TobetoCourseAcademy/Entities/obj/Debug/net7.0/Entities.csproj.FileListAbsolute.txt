@@ -1,0 +1,64 @@
+C:/Users/brsyi/source/repos/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.deps.json
+C:/Users/brsyi/source/repos/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.dll
+C:/Users/brsyi/source/repos/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.pdb
+C:/Users/brsyi/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/brsyi/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+C:/Users/brsyi/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+C:/Users/brsyi/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+C:/Users/brsyi/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.dll
+C:/Users/brsyi/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/refint/Entities.dll
+C:/Users/brsyi/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.pdb
+C:/Users/brsyi/source/repos/TobetoCourseAcademy/Entities/obj/Debug/net7.0/ref/Entities.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.deps.json
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/refint/Entities.dll
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.pdb
+C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/Entities/obj/Debug/net7.0/ref/Entities.dll
+/Users/kadirozdemir/Downloads/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.dll
+/Users/kadirozdemir/Downloads/TobetoCourseAcademy/Entities/obj/Debug/net7.0/refint/Entities.dll
+/Users/kadirozdemir/Downloads/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.pdb
+/Users/kadirozdemir/Downloads/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.deps.json
+/Users/kadirozdemir/Downloads/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.dll
+/Users/kadirozdemir/Downloads/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.pdb
+/Users/kadirozdemir/Downloads/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/kadirozdemir/Downloads/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadirozdemir/Downloads/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/kadirozdemir/Downloads/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/kadirozdemir/Downloads/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/Users/kadirozdemir/Downloads/TobetoCourseAcademy/Entities/obj/Debug/net7.0/ref/Entities.dll
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.deps.json
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.dll
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.pdb
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.dll
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/obj/Debug/net7.0/refint/Entities.dll
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.pdb
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/obj/Debug/net7.0/ref/Entities.dll
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Core.dll
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Core.pdb
+/Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.CopyComplete
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.deps.json
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Entities.pdb
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Core.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/bin/Debug/net7.0/Core.pdb
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.AssemblyReference.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfoInputs.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.AssemblyInfo.cs
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.CoreCompileInputs.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.csproj.CopyComplete
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/obj/Debug/net7.0/refint/Entities.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/obj/Debug/net7.0/Entities.pdb
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Entities/obj/Debug/net7.0/ref/Entities.dll
