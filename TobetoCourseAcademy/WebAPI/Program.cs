@@ -23,6 +23,9 @@ namespace WebAPI
             builder.Services.AddSingleton<IEducatorService, EducatorManager>();
             builder.Services.AddSingleton<IEducatorDal, EfEducatorDal>();
 
+            builder.Services.AddSingleton<ICourseEducatorService, CourseEducatorMenager>();
+            builder.Services.AddSingleton<ICourseEducatorDal, EfCourseEducatorDal>();
+
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();

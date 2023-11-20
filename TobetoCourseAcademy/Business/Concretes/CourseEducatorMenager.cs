@@ -1,4 +1,8 @@
 ﻿using Business.Abstracts;
+using Business.Constants;
+using Core.Utilities.Results;
+using Core.Utilities.Results.Abstract;
+using Core.Utilities.Results.Contrete;
 using DataAccess.Abstracts;
 using Entities.Concretes;
 using System;
@@ -11,17 +15,42 @@ namespace Business.Concretes
 {
     public class CourseEducatorMenager : ICourseEducatorService
     {
-        ICourseEducatorDal _icourseEducationDal;
+        ICourseEducatorDal _courseEducationDal;
 
-        public CourseEducatorMenager(ICourseEducatorDal icourseEducationDal)
+        public CourseEducatorMenager(ICourseEducatorDal courseEducationDal)
         {
-            _icourseEducationDal = icourseEducationDal;
+            _courseEducationDal = courseEducationDal;
         }
 
-       
-        public List<CourseEducator> GetAllByCourseId(string name)
+
+        //Add,Update, Delete, Get,GetById
+
+        public IResult Add(CourseEducator courseEducator)
         {
-            return _icourseEducationDal.GetAll(p=> p.Course.Name == name);
+            _courseEducationDal.Add(courseEducator);
+            return new SuccessResult(Messages.CourseAdd);
+        }
+
+        public IResult Delete(CourseEducator courseEducator)
+        {
+            _courseEducationDal.Delete(courseEducator);
+            return new SuccessResult(Messages.CourseDelete);
+        }
+
+        public IDataResult<List<CourseEducator>> GetAll()
+        {
+            return new SuccesDataResult<List<CourseEducator>>(Messages.CoursesList, _courseEducationDal.GetAll());
+        }
+
+        public IDataResult<CourseEducator> GetById(int id)
+        {
+            return new SuccesDataResult<CourseEducator>(_courseEducationDal.Get(p => p.Id == id));
+        }
+
+        public IResult Update(CourseEducator courseEducator)
+        {
+            _courseEducationDal.Update(courseEducator);
+            return new SuccessResult(Messages.CourseDelete);
         }
     }
 }
