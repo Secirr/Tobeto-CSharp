@@ -1,17 +1,18 @@
 ﻿<Properties StartupConfiguration="{40D1ABC1-6291-4ADE-A5EB-40AAB434B447}|https">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/Controllers/CoursesController.cs">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/DataAccess/IEntityRepository.cs">
     <Files>
-      <File FileName="WebAPI/Controllers/CoursesController.cs" Line="1" Column="1" />
+      <File FileName="WebAPI/Controllers/CoursesController.cs" />
       <File FileName="Business/Abstracts/ICourseEducatorService.cs" />
       <File FileName="Business/Abstracts/ICategoryService.cs" />
       <File FileName="Business/Abstracts/ICourseService.cs" />
       <File FileName="Business/Concretes/CourseMenager.cs" />
       <File FileName="Business/Constants/Messages.cs" />
-      <File FileName="Core/DataAccess/IEntityRepository.cs" />
+      <File FileName="Core/DataAccess/IEntityRepository.cs" Line="11" Column="75" />
       <File FileName="Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs" />
       <File FileName="Core/Utilities/Results/Abstract/IResult.cs" />
       <File FileName="Core/Utilities/Results/Abstract/IDataResult.cs" />
@@ -42,27 +43,44 @@
       <File FileName="Business/Abstracts/IEducatorService.cs" />
       <File FileName="DataAccess/Concretes/EntityFramework/EfCategoryDal.cs" />
       <File FileName="DataAccess/Concretes/EntityFramework/EfCourseDal.cs" />
-      <File FileName="WebAPI/Controllers/CategoriesController.cs" Line="1" Column="1" />
+      <File FileName="WebAPI/Controllers/CategoriesController.cs" />
       <File FileName="DataAccess/Abstracts/IEducatorDal.cs" />
-      <File FileName="WebAPI/Controllers/InstructorsController.cs" Line="69" Column="3" />
+      <File FileName="WebAPI/Controllers/InstructorsController.cs" />
+      <File FileName="WebAPI/Controllers/CourseEducatorsController.cs" />
+      <File FileName="DataAccess/Abstracts/ICourseEducatorDal.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TobetoCourseAcademy" expanded="True">
-            <Node name="ConsoleUI" expanded="True" />
-            <Node name="WebAPI" expanded="True">
-              <Node name="Controllers" expanded="True">
-                <Node name="CoursesController.cs" selected="True" />
+            <Node name="Business" expanded="True">
+              <Node name="Abstracts" expanded="True" />
+              <Node name="Concretes" expanded="True" />
+              <Node name="Constants" expanded="True" />
+            </Node>
+            <Node name="ConsoleUI" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="Core" expanded="True">
+              <Node name="DataAccess" expanded="True">
+                <Node name="IEntityRepository.cs" selected="True" />
               </Node>
+            </Node>
+            <Node name="DataAccess" expanded="True">
+              <Node name="Abstracts" expanded="True" />
+              <Node name="Concretes" expanded="True">
+                <Node name="EntityFramework" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="WebAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

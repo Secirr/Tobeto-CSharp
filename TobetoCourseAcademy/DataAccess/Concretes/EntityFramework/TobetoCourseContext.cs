@@ -13,7 +13,6 @@ namespace DataAccess.Concretes.EntityFramework
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             optionsBuilder.UseSqlServer(@"Server=localhost,1433;Database=TobetoCourse;User Id=SA;Password=reallyStrongPwd123;TrustServerCertificate =True");
-         
         }
        
         public DbSet<Course> Courses { get; set; }
