@@ -300,3 +300,11 @@ C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/ConsoleUI/o
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.pdb
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ConsoleUI.genruntimeconfig.cache
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/ConsoleUI/obj/Debug/net7.0/ref/ConsoleUI.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Autofac.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Autofac.Extras.DynamicProxy.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Castle.Core.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/FluentValidation.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/System.Diagnostics.EventLog.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Diagnostics.EventLog.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/ConsoleUI/bin/Debug/net7.0/Autofac.Extensions.DependencyInjection.dll

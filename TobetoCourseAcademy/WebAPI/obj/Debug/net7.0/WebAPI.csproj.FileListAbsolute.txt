@@ -77,3 +77,8 @@
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.pdb
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/WebAPI.genruntimeconfig.cache
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/WebAPI/obj/Debug/net7.0/ref/WebAPI.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Autofac.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Autofac.Extras.DynamicProxy.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Castle.Core.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/FluentValidation.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/WebAPI/bin/Debug/net7.0/Autofac.Extensions.DependencyInjection.dll

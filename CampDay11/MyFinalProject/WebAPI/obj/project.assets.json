@@ -3398,7 +3398,6 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
-      "Autofac >= 7.1.0",
       "Autofac.Extensions.DependencyInjection >= 7.2.0",
       "Autofac.Extras.DynamicProxy >= 7.1.0",
       "Business >= 1.0.0",
@@ -3461,10 +3460,6 @@
       "net7.0": {
         "targetAlias": "net7.0",
         "dependencies": {
-          "Autofac": {
-            "target": "Package",
-            "version": "[7.1.0, )"
-          },
           "Autofac.Extensions.DependencyInjection": {
             "target": "Package",
             "version": "[7.2.0, )"

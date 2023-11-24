@@ -1,5 +1,7 @@
 ﻿using Business.Abstracts;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using Core.Utilities.Results.Abstract;
 using Core.Utilities.Results.Contrete;
@@ -24,6 +26,7 @@ namespace Business.Concretes
             _courseDal = courseDal;
         }
 
+        [ValidationAspect(typeof(CourseValidator))]
         public IResult Add(Course course)
         {
             _courseDal.Add(course);
@@ -59,7 +62,7 @@ namespace Business.Concretes
 
         public IDataResult<Course> GetById(int id)
         {
-            return new SuccesDataResult<Course>(Messages.GetCourse, _courseDal.Get(C=>C.Id == id));
+            return new SuccesDataResult<Course>(Messages.GetCourse, _courseDal.Get(c=>c.Id == id));
         }
 
         public IDataResult<List<CourseDetailsDto>> GetCourseDetails()

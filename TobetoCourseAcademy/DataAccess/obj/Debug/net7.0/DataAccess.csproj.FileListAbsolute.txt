@@ -67,7 +67,6 @@ C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/
 /Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/Core.dll
 /Users/kadirozdemir/Desktop/lessons/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/Core.pdb
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.deps.json
-/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.runtimeconfig.json
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.dll
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/DataAccess.pdb
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/DataAccess/bin/Debug/net7.0/Core.dll
@@ -83,5 +82,4 @@ C:/Users/SEVENCAN/Desktop/Tobeto Ders Dosyaları/TobetoCourseAcademy/DataAccess/
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.dll
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/refint/DataAccess.dll
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.pdb
-/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/DataAccess.genruntimeconfig.cache
 /Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/DataAccess/obj/Debug/net7.0/ref/DataAccess.dll

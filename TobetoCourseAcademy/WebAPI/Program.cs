@@ -1,7 +1,6 @@
-﻿using Business.Abstracts;
-using Business.Concretes;
-using DataAccess.Abstracts;
-using DataAccess.Concretes.EntityFramework;
+﻿using Autofac;
+using Autofac.Extensions.DependencyInjection;
+using Business.DependencyResolvers.Autofac;
 
 namespace WebAPI
 {
@@ -11,20 +10,17 @@ namespace WebAPI
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            //AutofacBusinessModule burada tanımlanmıştır.
+            //AutofacServiceProviderFactory için Autofac.Extensions.DependencyInjection paketi yüklenmiştir.
+            builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+            builder.Host.ConfigureContainer<ContainerBuilder>(builder => builder.RegisterModule(new AutofacBusinessModule()));
+
             // Add services to the container.
-
+            //Autofac, Ninject, CastleWindsor, StructureMap, LightInject, DryInject, Postsharp --> IoC Container
+            //AOP
             builder.Services.AddControllers();
-            builder.Services.AddSingleton<ICourseService, CourseMenager>();
-            builder.Services.AddSingleton<ICourseDal, EfCourseDal>();
-
-            builder.Services.AddSingleton<ICategoryService, CategoryManager>();
-            builder.Services.AddSingleton<ICategoryDal, EfCategoryDal>();
-
-            builder.Services.AddSingleton<IEducatorService, EducatorManager>();
-            builder.Services.AddSingleton<IEducatorDal, EfEducatorDal>();
-
-            builder.Services.AddSingleton<ICourseEducatorService, CourseEducatorMenager>();
-            builder.Services.AddSingleton<ICourseEducatorDal, EfCourseEducatorDal>();
+            //builder.Services.AddSingleton<IProductService, ProductManager>();
+            //builder.Services.AddSingleton<IProductDal, EfProductDal>();
 
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
@@ -48,5 +44,6 @@ namespace WebAPI
 
             app.Run();
         }
+
     }
 }

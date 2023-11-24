@@ -8,7 +8,6 @@
     ".NETCoreApp,Version=v7.0": {
       "WebAPI/1.0.0": {
         "dependencies": {
-          "Autofac": "7.1.0",
           "Autofac.Extensions.DependencyInjection": "7.2.0",
           "Autofac.Extras.DynamicProxy": "7.1.0",
           "Business": "1.0.0",
