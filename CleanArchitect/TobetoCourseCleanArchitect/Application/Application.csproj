@@ -1,0 +1,66 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Features\" />
+    <None Remove="Features\Courses\" />
+    <None Remove="Features\Instructors\" />
+    <None Remove="Features\Categories\" />
+    <None Remove="Features\CourseInstructors\" />
+    <None Remove="Features\Courses\Commands\" />
+    <None Remove="Features\Courses\Queries\" />
+    <None Remove="Features\Instructors\Commands\" />
+    <None Remove="Features\Instructors\Queries\" />
+    <None Remove="Features\CourseInstructors\Commands\" />
+    <None Remove="Features\CourseInstructors\Queries\" />
+    <None Remove="Features\Categories\Commands\" />
+    <None Remove="Features\Categories\Queries\" />
+    <None Remove="Features\Courses\Commands\Create\" />
+    <None Remove="Features\Courses\Commands\Delete\" />
+    <None Remove="Features\Courses\Commands\Update\" />
+    <None Remove="Features\Instructors\Commands\Create\" />
+    <None Remove="Features\Instructors\Commands\Delete\" />
+    <None Remove="Features\Instructors\Commands\Update\" />
+    <None Remove="Features\CourseInstructors\Commands\Create\" />
+    <None Remove="Features\CourseInstructors\Commands\Delete\" />
+    <None Remove="Features\CourseInstructors\Commands\Update\" />
+    <None Remove="Features\Categories\Commands\Create\" />
+    <None Remove="Features\Categories\Commands\Delete\" />
+    <None Remove="Features\Categories\Commands\Update\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Features\" />
+    <Folder Include="Features\Courses\" />
+    <Folder Include="Features\Instructors\" />
+    <Folder Include="Features\Categories\" />
+    <Folder Include="Features\CourseInstructors\" />
+    <Folder Include="Features\Courses\Commands\" />
+    <Folder Include="Features\Courses\Queries\" />
+    <Folder Include="Features\Instructors\Commands\" />
+    <Folder Include="Features\Instructors\Queries\" />
+    <Folder Include="Features\CourseInstructors\Commands\" />
+    <Folder Include="Features\CourseInstructors\Queries\" />
+    <Folder Include="Features\Categories\Commands\" />
+    <Folder Include="Features\Categories\Queries\" />
+    <Folder Include="Features\Courses\Commands\Create\" />
+    <Folder Include="Features\Courses\Commands\Delete\" />
+    <Folder Include="Features\Courses\Commands\Update\" />
+    <Folder Include="Features\Instructors\Commands\Create\" />
+    <Folder Include="Features\Instructors\Commands\Delete\" />
+    <Folder Include="Features\Instructors\Commands\Update\" />
+    <Folder Include="Features\CourseInstructors\Commands\Create\" />
+    <Folder Include="Features\CourseInstructors\Commands\Delete\" />
+    <Folder Include="Features\CourseInstructors\Commands\Update\" />
+    <Folder Include="Features\Categories\Commands\Create\" />
+    <Folder Include="Features\Categories\Commands\Delete\" />
+    <Folder Include="Features\Categories\Commands\Update\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.1.1" />
+  </ItemGroup>
+</Project>

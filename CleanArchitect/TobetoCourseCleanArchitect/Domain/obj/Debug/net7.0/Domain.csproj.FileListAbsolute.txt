@@ -1,0 +1,15 @@
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/bin/Debug/net7.0/Domain.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/bin/Debug/net7.0/Tobeto.Core.Persistence.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/bin/Debug/net7.0/Tobeto.Core.Persistence.pdb
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/obj/Debug/net7.0/Domain.csproj.AssemblyReference.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/obj/Debug/net7.0/Domain.csproj.CopyComplete
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/obj/Debug/net7.0/Domain.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/obj/Debug/net7.0/ref/Domain.dll

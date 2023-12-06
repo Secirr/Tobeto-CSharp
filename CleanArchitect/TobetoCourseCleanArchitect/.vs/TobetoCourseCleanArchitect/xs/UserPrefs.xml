@@ -1,0 +1,7 @@
+﻿<Properties StartupConfiguration="{420D4550-FB22-4D0C-ACCE-19787FADFEA5}|https">
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Domain FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Persistence FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Application FirstBuild="True" />
+</Properties>

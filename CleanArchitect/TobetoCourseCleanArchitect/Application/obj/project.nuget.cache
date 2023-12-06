@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "1LIrouKFO1RN2qBryLG8tFamUs4g3KH+pbFL5lCjObYR+CiM7ekYSFKyCCNE1U8q+iZdWlo56TihYpdvCEHe6A==",
+  "success": true,
+  "projectFilePath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Application/Application.csproj",
+  "expectedPackageFiles": [
+    "/Users/kadirozdemir/.nuget/packages/mediatr/12.1.1/mediatr.12.1.1.nupkg.sha512",
+    "/Users/kadirozdemir/.nuget/packages/mediatr.contracts/2.0.1/mediatr.contracts.2.0.1.nupkg.sha512",
+    "/Users/kadirozdemir/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/6.0.0/microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

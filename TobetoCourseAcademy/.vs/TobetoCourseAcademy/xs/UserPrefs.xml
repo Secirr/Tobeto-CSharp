@@ -1,41 +1,43 @@
 ﻿<Properties StartupConfiguration="{40D1ABC1-6291-4ADE-A5EB-40AAB434B447}|https">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Core/CrossCuttingConcerns/Validation/ValidationTool.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/Controllers/CoursesController.cs">
     <Files>
-      <File FileName="WebAPI/Controllers/CoursesController.cs" Line="1" Column="1" />
+      <File FileName="WebAPI/Controllers/CoursesController.cs" Line="36" Column="1" />
       <File FileName="Business/Abstracts/ICourseEducatorService.cs" />
       <File FileName="Business/Abstracts/ICategoryService.cs" />
       <File FileName="Business/Abstracts/ICourseService.cs" />
-      <File FileName="Business/Concretes/CourseMenager.cs" Line="29" Column="9" />
       <File FileName="Business/Constants/Messages.cs" />
-      <File FileName="Core/DataAccess/IEntityRepository.cs" Line="14" Column="48" />
+      <File FileName="Core/DataAccess/IEntityRepository.cs" />
       <File FileName="Core/DataAccess/EntityFramework/EfEntityRepositoryBase.cs" />
       <File FileName="Core/Utilities/Results/Abstract/IResult.cs" />
       <File FileName="Core/Utilities/Results/Abstract/IDataResult.cs" />
-      <File FileName="WebAPI/Program.cs" Line="34" Column="36" />
-      <File FileName="Entities/Concretes/Course.cs" Line="1" Column="1" />
+      <File FileName="WebAPI/Program.cs" />
+      <File FileName="Entities/Concretes/Course.cs" />
       <File FileName="Entities/Concretes/Category.cs" />
       <File FileName="Entities/Concretes/CourseEducator.cs" />
       <File FileName="Entities/Concretes/Educator.cs" />
       <File FileName="Entities/DTOs/CourseDetailsDto.cs" />
       <File FileName="WebAPI/Controllers/WeatherForecastController.cs" />
-      <File FileName="Core/Utilities/Results/Contrete/DataResult.cs" Line="1" Column="1" />
-      <File FileName="ConsoleUI/Program.cs" Line="1" Column="1" />
+      <File FileName="Core/Utilities/Results/Contrete/DataResult.cs" />
+      <File FileName="ConsoleUI/Program.cs" />
       <File FileName="Core/Entities/IDto.cs" />
       <File FileName="Core/Entities/IEntity.cs" />
-      <File FileName="Core/Utilities/Results/Contrete/ErrorDataResult.cs" Line="1" Column="1" />
-      <File FileName="Core/Utilities/Results/Contrete/ErrorResult.cs" Line="1" Column="1" />
-      <File FileName="Core/Utilities/Results/Contrete/Result.cs" Line="1" Column="1" />
+      <File FileName="Core/Utilities/Results/Contrete/ErrorDataResult.cs" />
+      <File FileName="Core/Utilities/Results/Contrete/ErrorResult.cs" />
+      <File FileName="Core/Utilities/Results/Contrete/Result.cs" />
       <File FileName="Core/Utilities/Results/Contrete/SuccesDataResult.cs" />
       <File FileName="Core/Utilities/Results/Contrete/SuccessResult.cs" />
       <File FileName="DataAccess/Abstracts/ICategoryDal.cs" />
       <File FileName="DataAccess/Abstracts/ICourseDal.cs" />
-      <File FileName="DataAccess/Concretes/EntityFramework/TobetoCourseContext.cs" Line="15" Column="155" />
+      <File FileName="DataAccess/Concretes/EntityFramework/TobetoCourseContext.cs" />
       <File FileName="DataAccess/Concretes/EntityFramework/EfEducatorDal.cs" />
       <File FileName="DataAccess/Concretes/EntityFramework/EfCourseEducatorDal.cs" />
       <File FileName="Business/Concretes/EducatorManager.cs" />
       <File FileName="Business/Concretes/CourseEducatorMenager.cs" />
-      <File FileName="Business/Concretes/CategoryManager.cs" />
       <File FileName="Business/Abstracts/IEducatorService.cs" />
       <File FileName="DataAccess/Concretes/EntityFramework/EfCategoryDal.cs" />
       <File FileName="DataAccess/Concretes/EntityFramework/EfCourseDal.cs" />
@@ -44,47 +46,43 @@
       <File FileName="WebAPI/Controllers/InstructorsController.cs" />
       <File FileName="WebAPI/Controllers/CourseEducatorsController.cs" />
       <File FileName="DataAccess/Abstracts/ICourseEducatorDal.cs" />
-      <File FileName="WebAPI/Properties/launchSettings.json" Line="1" Column="1" />
-      <File FileName="Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs" Line="36" Column="46" />
-      <File FileName="Business/ValidationRules/FluentValidation/CourseValidator.cs" Line="9" Column="33" />
-      <File FileName="Core/CrossCuttingConcerns/Validation/ValidationTool.cs" Line="20" Column="1" />
-      <File FileName="Core/Utilities/Interceptors/AspectInterceptorSelector.cs" Line="8" Column="10" />
-      <File FileName="Core/Utilities/Interceptors/MethodInterception.cs" Line="24" Column="14" />
-      <File FileName="Core/Utilities/Interceptors/MethodInterceptionBaseAttribute.cs" Line="1" Column="27" />
-      <File FileName="Core/Aspects/Autofac/Validation/EmptyClass.cs" Line="25" Column="134" />
-      <File FileName="Business/Business.csproj" Line="8" Column="1" />
+      <File FileName="WebAPI/Properties/launchSettings.json" />
+      <File FileName="Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs" />
+      <File FileName="Business/ValidationRules/FluentValidation/CourseValidator.cs" />
+      <File FileName="Core/CrossCuttingConcerns/Validation/ValidationTool.cs" />
+      <File FileName="Core/Utilities/Interceptors/AspectInterceptorSelector.cs" />
+      <File FileName="Core/Utilities/Interceptors/MethodInterception.cs" />
+      <File FileName="Core/Utilities/Interceptors/MethodInterceptionBaseAttribute.cs" />
+      <File FileName="Business/Business.csproj" />
+      <File FileName="Business/Concretes/CategoryMenager.cs" />
+      <File FileName="Business/Concretes/CourseManager.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="TobetoCourseAcademy" expanded="True">
-            <Node name="Core">
-              <Node name="Aspects" expanded="True">
-                <Node name="Autofac" expanded="True">
-                  <Node name="Validation" expanded="True" />
-                </Node>
+            <Node name="Business" expanded="True">
+              <Node name="DependencyResolvers" expanded="True">
+                <Node name="Autofac" expanded="True" />
               </Node>
-              <Node name="CrossCuttingConcerns" expanded="True">
-                <Node name="Validation" expanded="True" />
-              </Node>
-              <Node name="Utilities" expanded="True">
-                <Node name="Interceptors" expanded="True" />
+              <Node name="ValidationRules" expanded="True">
+                <Node name="FluentValidation" expanded="True" />
               </Node>
             </Node>
-            <Node name="WebAPI" selected="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Properties" expanded="True" />
+            <Node name="Entities" expanded="True">
+              <Node name="Concretes" expanded="True" />
+            </Node>
+            <Node name="WebAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="CoursesController.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.ItemProperties.ConsoleUI PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
