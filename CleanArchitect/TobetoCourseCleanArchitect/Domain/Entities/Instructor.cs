@@ -5,7 +5,9 @@ namespace Domain.Entities
 {
 	public class Instructor : Entity<Guid>
 	{
-		public string FirstName { get; set; }
+        //Entity'den Id si geliyor (primary key)
+
+        public string FirstName { get; set; }
 
 		public string LastName { get; set; }
 

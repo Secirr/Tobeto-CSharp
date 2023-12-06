@@ -47,6 +47,16 @@
         "build": {
           "buildTransitive/netcoreapp3.1/_._": {}
         }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
       }
     }
   },
@@ -105,10 +115,16 @@
         "microsoft.extensions.dependencyinjection.abstractions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Domain >= 1.0.0",
       "MediatR >= 12.1.1"
     ]
   },
@@ -137,7 +153,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/Domain.csproj": {
+              "projectPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitect/TobetoCourseCleanArchitect/Domain/Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
