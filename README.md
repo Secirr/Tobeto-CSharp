@@ -1,4 +1,15 @@
-# Tobeto-CSharp-Camp
-# Homework
-Engin demiroğ's C# camp
+## Tobeto Training Content And Homeworks
+
+- N-LayerArchitect
+ * TobetoCourseAcademy
+ * MyFinalProject
+ 
+ 
+- CleanArchitecture
+ * Tobeto.Core.Persistance
+ * RentACar
+ * TobetoCourseAcademy
+ 
+ 
+ 
 

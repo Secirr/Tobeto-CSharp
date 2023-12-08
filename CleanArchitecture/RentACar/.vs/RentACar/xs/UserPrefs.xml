@@ -1,0 +1,57 @@
+﻿<Properties StartupConfiguration="{302427B2-B24C-446A-B2BF-C7A7BEA6B7BF}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAPI/Program.cs">
+    <Files>
+      <File FileName="Domain/Entities/Brand.cs" Line="10" Column="27" />
+      <File FileName="Application/Features/Brands/Commends/Create/CreateBrandCommand.cs" Line="8" Column="20" />
+      <File FileName="Application/Features/Brands/Commends/Create/CreatedBrandResponse.cs" Line="10" Column="44" />
+      <File FileName="Application/Features/Brands/Commends/Create/CreateBrandCommandHandler.cs" Line="31" Column="41" />
+      <File FileName="WebAPI/Controllers/BrandsController.cs" Line="33" Column="6" />
+      <File FileName="WebAPI/Program.cs" Line="18" Column="1" />
+      <File FileName="Application/ApplicationServiceRegistration.cs" Line="15" Column="63" />
+      <File FileName="WebAPI/Properties/launchSettings.json" Line="33" Column="34" />
+      <File FileName="Persistence/Repositories/BrandRepository.cs" Line="12" Column="10" />
+      <File FileName="Application/Services/Repositories/IBrandRepository.cs" Line="7" Column="22" />
+      <File FileName="Persistence/Context/BaseDbContext.cs" Line="18" Column="22" />
+      <File FileName="Persistence/PersistentServiceRegistration.cs" Line="18" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RentACar" expanded="True">
+            <Node name="Application" expanded="True">
+              <Node name="Features" expanded="True">
+                <Node name="Brands" expanded="True">
+                  <Node name="Commends" expanded="True">
+                    <Node name="Create" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Services" expanded="True">
+                <Node name="Repositories" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="Domain" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Entities" expanded="True" />
+            </Node>
+            <Node name="Persistence" expanded="True">
+              <Node name="Context" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="WebAPI" selected="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

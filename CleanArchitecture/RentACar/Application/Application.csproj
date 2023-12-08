@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Features\" />
+    <None Remove="Features\Brands\" />
+    <None Remove="Features\Brands\Commends\" />
+    <None Remove="Features\Brands\Commends\Create\" />
+    <None Remove="Features\Brands\Commends\Update\" />
+    <None Remove="Features\Brands\Commends\Delete\" />
+    <None Remove="Services\" />
+    <None Remove="Services\Repositories\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Features\" />
+    <Folder Include="Features\Brands\" />
+    <Folder Include="Features\Brands\Commends\" />
+    <Folder Include="Features\Brands\Commends\Create\" />
+    <Folder Include="Features\Brands\Commends\Update\" />
+    <Folder Include="Features\Brands\Commends\Delete\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\Repositories\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.2.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Core.Persistance">
+      <HintPath>..\..\Tobeto.Core.Persistance\bin\Debug\net7.0\Core.Persistance.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Domain\Domain.csproj" />
+  </ItemGroup>
+</Project>

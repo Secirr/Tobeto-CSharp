@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Entities\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Core.Persistance">
+      <HintPath>..\..\Core.Persistance\bin\Debug\net7.0\Core.Persistance.dll</HintPath>
+    </Reference>
+    <Reference Include="Core.Persistance">
+      <HintPath>..\..\Tobeto.Core.Persistance\bin\Debug\net7.0\Core.Persistance.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
