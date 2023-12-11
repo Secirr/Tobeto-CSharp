@@ -2867,11 +2867,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Core/Core.csproj",
+      "projectUniqueName": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/N-LayerArchitect/TobetoCourseAcademy/Core/Core.csproj",
       "projectName": "Core",
-      "projectPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Core/Core.csproj",
+      "projectPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/N-LayerArchitect/TobetoCourseAcademy/Core/Core.csproj",
       "packagesPath": "/Users/kadirozdemir/.nuget/packages/",
-      "outputPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Core/obj/",
+      "outputPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/N-LayerArchitect/TobetoCourseAcademy/Core/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kadirozdemir/.nuget/NuGet/NuGet.Config"

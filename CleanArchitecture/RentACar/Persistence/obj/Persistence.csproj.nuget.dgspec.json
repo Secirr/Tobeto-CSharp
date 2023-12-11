@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Persistence/Persistence.csproj": {}
+    "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Persistence/Persistence.csproj": {}
   },
   "projects": {
-    "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Application/Application.csproj": {
+    "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Application/Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Application/Application.csproj",
+        "projectUniqueName": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Application/Application.csproj",
         "projectName": "Application",
-        "projectPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Application/Application.csproj",
+        "projectPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Application/Application.csproj",
         "packagesPath": "/Users/kadirozdemir/.nuget/packages/",
-        "outputPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Application/obj/",
+        "outputPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Application/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kadirozdemir/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Domain/Domain.csproj": {
-                "projectPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Domain/Domain.csproj"
+              "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Domain/Domain.csproj": {
+                "projectPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Domain/Domain.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Domain/Domain.csproj": {
+    "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Domain/Domain.csproj",
+        "projectPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Domain/Domain.csproj",
         "packagesPath": "/Users/kadirozdemir/.nuget/packages/",
-        "outputPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Domain/obj/",
+        "outputPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kadirozdemir/.nuget/NuGet/NuGet.Config"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Persistence/Persistence.csproj": {
+    "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Persistence/Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Persistence/Persistence.csproj",
+        "projectUniqueName": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Persistence/Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Persistence/Persistence.csproj",
+        "projectPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Persistence/Persistence.csproj",
         "packagesPath": "/Users/kadirozdemir/.nuget/packages/",
-        "outputPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Persistence/obj/",
+        "outputPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Persistence/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/kadirozdemir/.nuget/NuGet/NuGet.Config"
@@ -145,11 +145,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Application/Application.csproj": {
-                "projectPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Application/Application.csproj"
+              "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Application/Application.csproj": {
+                "projectPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Application/Application.csproj"
               },
-              "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Domain/Domain.csproj": {
-                "projectPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Domain/Domain.csproj"
+              "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Domain/Domain.csproj": {
+                "projectPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Domain/Domain.csproj"
               }
             }
           }
@@ -173,6 +173,12 @@
               "version": "[7.0.14, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.14, )"
             },

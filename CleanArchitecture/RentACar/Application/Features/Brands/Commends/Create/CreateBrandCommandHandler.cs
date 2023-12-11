@@ -16,17 +16,19 @@ namespace Application.Features.Brands.Commends.Create
 
         public async Task<CreatedBrandResponse> Handle(CreateBrandCommand request, CancellationToken cancellationToken)
         {
-            Brand brand = new Brand();
-            brand.Name = request.Name;
-            brand.Id = Guid.NewGuid();
+            Brand brandCreate = new Brand()
+            {
+                Name = request.Name
+            };
 
 
-            var createdBrand = await _brandRepository.AddAsync(brand); //Bana brand ver.
+            await _brandRepository.AddAsync(brandCreate);
 
-            CreatedBrandResponse createdBrandResponse = new CreatedBrandResponse();
-            createdBrandResponse.Id = createdBrand.Id;
-            createdBrandResponse.Name = createdBrand.Name;
-            createdBrandResponse.CreatedDAte = createdBrand.CreatedDate;
+            CreatedBrandResponse createdBrandResponse = new CreatedBrandResponse()
+            {
+                Name = brandCreate.Name,
+                CreatedDate = brandCreate.CreatedDate
+            };
 
             return createdBrandResponse;
         }

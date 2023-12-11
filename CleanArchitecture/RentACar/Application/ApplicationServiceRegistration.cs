@@ -10,8 +10,7 @@ public static class ApplicationServiceRegistration
     //applicationlarla ilgili tüm IoC servis kayıtlarını buraya giriyorum.
     public static IServiceCollection AddApplicationServices(this IServiceCollection services)
     {
-        //CreateBrandCommand --> CreateBrandCommandHandler
-        //UpdateBrandCommand --> UpdateBrandCommandHandler
+        
         //Uygulamanın başında MediatR bu işlemleri eşleştirir.
         services.AddMediatR(configuration =>
         {
@@ -20,5 +19,8 @@ public static class ApplicationServiceRegistration
         return services;
     }
 }
+
+//CreateBrandCommand --> CreateBrandCommandHandler
+//UpdateBrandCommand --> UpdateBrandCommandHandler
 
 

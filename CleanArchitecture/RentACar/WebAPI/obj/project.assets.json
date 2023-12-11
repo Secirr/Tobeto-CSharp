@@ -3231,11 +3231,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/WebAPI/WebAPI.csproj",
+      "projectUniqueName": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/WebAPI/WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/WebAPI/WebAPI.csproj",
+      "projectPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/WebAPI/WebAPI.csproj",
       "packagesPath": "/Users/kadirozdemir/.nuget/packages/",
-      "outputPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/WebAPI/obj/",
+      "outputPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/WebAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kadirozdemir/.nuget/NuGet/NuGet.Config"
@@ -3252,11 +3252,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Application/Application.csproj": {
-              "projectPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Application/Application.csproj"
+            "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Application/Application.csproj": {
+              "projectPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Application/Application.csproj"
             },
-            "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Persistence/Persistence.csproj": {
-              "projectPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Persistence/Persistence.csproj"
+            "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Persistence/Persistence.csproj": {
+              "projectPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Persistence/Persistence.csproj"
             }
           }
         }

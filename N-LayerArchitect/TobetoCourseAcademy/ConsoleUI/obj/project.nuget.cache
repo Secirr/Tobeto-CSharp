@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NSZOWZ1imj71c1v8VvIBwctm9qpyVgCR2da+zJnqaTMGccZ+mWaBvFKHYeCa81S0nDfrV0CQr/7dkkRTPkOYig==",
+  "dgSpecHash": "qwfxTOL1y9r04AjNFku4gsOdrnfzk8InGSp8tO9iByZknG9vS+4Fqnjo8kif3r2RJn5Igti0A0tvquyb4oaeRQ==",
   "success": true,
-  "projectFilePath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
+  "projectFilePath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/N-LayerArchitect/TobetoCourseAcademy/ConsoleUI/ConsoleUI.csproj",
   "expectedPackageFiles": [
     "/Users/kadirozdemir/.nuget/packages/autofac/7.1.0/autofac.7.1.0.nupkg.sha512",
     "/Users/kadirozdemir/.nuget/packages/autofac.extensions.dependencyinjection/7.1.0/autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

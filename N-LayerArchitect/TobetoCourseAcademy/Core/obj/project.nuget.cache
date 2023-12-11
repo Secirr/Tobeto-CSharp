@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FDxPyFI1fJjFWmtVuIfLwAX4omKB5i+6SqW8W2hPNYD+ORgUpmCHFKlJVlrKp8aVBKmDAZhn9auv6wczXppsDg==",
+  "dgSpecHash": "IhrANC2IyNSsIdmq1noQPWBf4M5BbdMP/zFvrzMPqPOcgwmlOYOtybBpVM9dHdz2sjuw15cMfB4/eJL1/b3nlA==",
   "success": true,
-  "projectFilePath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/TobetoCourseAcademy/Core/Core.csproj",
+  "projectFilePath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/N-LayerArchitect/TobetoCourseAcademy/Core/Core.csproj",
   "expectedPackageFiles": [
     "/Users/kadirozdemir/.nuget/packages/autofac/7.0.1/autofac.7.0.1.nupkg.sha512",
     "/Users/kadirozdemir/.nuget/packages/autofac.extensions.dependencyinjection/7.1.0/autofac.extensions.dependencyinjection.7.1.0.nupkg.sha512",

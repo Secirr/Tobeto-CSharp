@@ -19,5 +19,8 @@
     <Reference Include="Core.Persistance">
       <HintPath>..\..\Tobeto.Core.Persistance\bin\Debug\net7.0\Core.Persistance.dll</HintPath>
     </Reference>
+    <Reference Include="Core.Persistance">
+      <HintPath>..\..\..\..\..\CourseAcademy-Project\courseAcademy-project\Tobeto.Core.Persistance\bin\Debug\net7.0\Core.Persistance.dll</HintPath>
+    </Reference>
   </ItemGroup>
 </Project>

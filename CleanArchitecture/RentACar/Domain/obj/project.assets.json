@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Domain/Domain.csproj",
+      "projectUniqueName": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Domain/Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Domain/Domain.csproj",
+      "projectPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Domain/Domain.csproj",
       "packagesPath": "/Users/kadirozdemir/.nuget/packages/",
-      "outputPath": "/Users/kadirozdemir/Desktop/C#-Camp/Tobeto-CSharp/CleanArchitecture/Tobeto.RentACar/Domain/obj/",
+      "outputPath": "/Users/kadirozdemir/Desktop/Tobeto/Tobeto-CSharp/CleanArchitecture/RentACar/Domain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/kadirozdemir/.nuget/NuGet/NuGet.Config"
